@@ -5,57 +5,49 @@ This project is an interactive Tableau Dashboard developed using the Sample Supe
 The dashboard provides executives with a complete overview of business performance by analyzing Sales, Profit, Quantity, Customers, Orders, Customer Distribution, Product Performance, and Weekly Trends.
 It is designed for decision-makers to monitor KPIs, compare Year-over-Year performance, and identify opportunities for business growth.
 
-## ashboard Preview
-
+## Dashboard Preview
 **Sales Dashboard**
 
 **Features:**
-
-Total Sales KPI
-
-Total Profit KPI
-
-Total Quantity KPI
-
-Year-over-Year Comparison
-
-Monthly Trend Analysis
-
-Weekly Sales & Profit Trend
-
-Subcategory Performance
-
-Profit vs Loss Analysis
-
-Dynamic Year Selection
+Total Sales KPI; 
+Total Profit KPI; 
+Total Quantity KPI; 
+Year-over-Year Comparison; 
+Monthly Trend Analysis; 
+Weekly Sales & Profit Trend; 
+Subcategory Performance; 
+Profit vs Loss Analysis; 
+Dynamic Year Selection; 
 
 **Customer Dashboard**
 **Features:**
-Total Customers KPI
-Sales per Customer KPI
-Total Orders KPI
-Customer Distribution
-Top 10 Customers
-Monthly Customer Trend
-Min/Max Customer Highlight
-Min/Max Orders Highlight
-Dynamic Year Selection
-Key Performance Indicators (KPIs)
-Sales Dashboard
-Total Sales
-Total Profit
-Total Quantity
-Previous Year Comparison
-Percentage Growth
-Monthly Performance Trend
-Weekly Trend Analysis
-Customer Dashboard
-Total Customers
-Sales per Customer
-Total Orders
-Customer Distribution
-Top Customers
-Customer Growth
+Total Customers KPI; 
+Sales per Customer KPI; 
+Total Orders KPI; 
+Customer Distribution; 
+Top 10 Customers; 
+Monthly Customer Trend; 
+Min/Max Customer Highlight; 
+Min/Max Orders Highlight; 
+Dynamic Year Selection; 
+## Key Performance Indicators (KPIs)
+**Sales Dashboard**
+
+Total Sales; 
+Total Profit; 
+Total Quantity; 
+Previous Year Comparison; 
+Percentage Growth; 
+Monthly Performance Trend; 
+Weekly Trend Analysis; 
+**Customer Dashboard**
+
+Total Customers; 
+Sales per Customer; 
+Total Orders; 
+Customer Distribution; 
+Top Customers; 
+Customer Growth; 
 ## Calculated Fields Used
 **Current Year KPIs**
 CY Sales
