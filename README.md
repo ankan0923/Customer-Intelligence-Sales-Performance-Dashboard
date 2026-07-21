@@ -38,6 +38,7 @@ Previous Year Comparison;
 Percentage Growth; 
 Monthly Performance Trend; 
 Weekly Trend Analysis
+
 **Customer Dashboard:**
 Total Customers; 
 Sales per Customer; 
