@@ -30,8 +30,7 @@ Min/Max Customer Highlight;
 Min/Max Orders Highlight; 
 Dynamic Year Selection
 ## Key Performance Indicators (KPIs)
-**Sales Dashboard**
-
+**Sales Dashboard:**
 Total Sales; 
 Total Profit; 
 Total Quantity; 
@@ -39,8 +38,7 @@ Previous Year Comparison;
 Percentage Growth; 
 Monthly Performance Trend; 
 Weekly Trend Analysis
-**Customer Dashboard**
-
+**Customer Dashboard:**
 Total Customers; 
 Sales per Customer; 
 Total Orders; 
