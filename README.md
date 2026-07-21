@@ -7,7 +7,6 @@ It is designed for decision-makers to monitor KPIs, compare Year-over-Year perfo
 
 ## Dashboard Preview
 **Sales Dashboard**
-
 **Features:**
 Total Sales KPI; 
 Total Profit KPI; 
@@ -17,7 +16,7 @@ Monthly Trend Analysis;
 Weekly Sales & Profit Trend; 
 Subcategory Performance; 
 Profit vs Loss Analysis; 
-Dynamic Year Selection; 
+Dynamic Year Selection
 
 **Customer Dashboard**
 **Features:**
@@ -29,7 +28,7 @@ Top 10 Customers;
 Monthly Customer Trend; 
 Min/Max Customer Highlight; 
 Min/Max Orders Highlight; 
-Dynamic Year Selection; 
+Dynamic Year Selection
 ## Key Performance Indicators (KPIs)
 **Sales Dashboard**
 
@@ -39,7 +38,7 @@ Total Quantity;
 Previous Year Comparison; 
 Percentage Growth; 
 Monthly Performance Trend; 
-Weekly Trend Analysis; 
+Weekly Trend Analysis
 **Customer Dashboard**
 
 Total Customers; 
@@ -47,68 +46,65 @@ Sales per Customer;
 Total Orders; 
 Customer Distribution; 
 Top Customers; 
-Customer Growth; 
+Customer Growth
 ## Calculated Fields Used
-**Current Year KPIs**
-CY Sales
-CY Profit
-CY Quantity
-CY Customer
-CY Order
+**Current Year KPIs:**
+CY Sales; 
+CY Profit; 
+CY Quantity; 
+CY Customer; 
+CY Order; 
 CY Sales Per Customer
-**Previous Year KPIs**
-PY Sales
-PY Profit
-PY Quantity
-PY Customer
-PY Order
+
+**Previous Year KPIs:**
+PY Sales; 
+PY Profit; 
+PY Quantity; 
+PY Customer; 
+PY Order; 
 PY Sales Per Customer
-**KPI Comparison**
-% Difference Sales
-% Difference Profit
-% Difference Quantity
-% Difference Customer
-% Difference Order
-% Difference Sales per Customer
-**Min/Max Highlight Calculations**
-Min/Max Sales
-Min/Max Profit
-Min/Max Quantity
-Min/Max Customer
-Min/Max Order
+
+**KPI Comparison:**
+% Difference Sales; 
+% Difference Profit; 
+% Difference Quantity; 
+% Difference Customer; 
+% Difference Order; 
+% Difference Sales per Customer 
+
+**Min/Max Highlight Calculations:**
+Min/Max Sales; 
+Min/Max Profit; 
+Min/Max Quantity; 
+Min/Max Customer; 
+Min/Max Order; 
 Min/Max Sales per Customer
 
 These calculations highlight the highest and lowest monthly values directly on the KPI sparklines.
 
 ## Dashboard Components
 **Sales Dashboard**
-KPI Cards
-Total Sales
-Total Profit
-Total Quantity
-Charts
-Monthly KPI Trends
-Weekly Sales Trend
-Weekly Profit Trend
-Subcategory Comparison
+KPI Cards; 
+Total Sales; 
+Total Profit; 
+Total Quantity; 
+Charts; 
+Monthly KPI Trends; 
+Weekly Sales Trend; 
+Weekly Profit Trend; 
+Subcategory Comparison; 
 Profit/Loss Visualization
+
 **Customer Dashboard**
-
-KPI Cards
-
-Total Customers
-
-Sales per Customer
-
-Total Orders
-
-Charts
-
-Customer Distribution Histogram
-
-Top 10 Customers Table
-
+KPI Cards; 
+Total Customers; 
+Sales per Customer; 
+Total Orders; 
+Charts; 
+Customer Distribution Histogram; 
+Top 10 Customers Table; 
 Monthly Customer Trend
+
 ## Business Insights
 The dashboard enables business users to:
 
@@ -128,47 +124,28 @@ Evaluate product subcategory performance.
 
 Detect weekly sales and profit fluctuations.
 ## Skills Demonstrated
-Tableau
-
-Dashboard Design
-
-Parameters
-
-Calculated Fields
-
-Table Calculations
-
-Dual Axis Charts
-
-Dynamic KPI Cards
-
-Interactive Navigation
-
-Filters
-
-Formatting
-
-Dashboard Actions
-
-Data Analytics
-
-KPI Development
-
-Year-over-Year Analysis
-
-Customer Analytics
-
-Sales Analytics
-
-Profitability Analysis
-
-Trend Analysis
-
-Distribution Analysis
-
+Tableau; 
+Dashboard Design; 
+Parameters; 
+Calculated Fields; 
+Table Calculations; 
+Dual Axis Charts; 
+Dynamic KPI Cards; 
+Interactive Navigation; 
+Filters; 
+Formatting; 
+Dashboard Actions; 
+Data Analytics; 
+KPI Development; 
+Year-over-Year Analysis; 
+Customer Analytics; 
+Sales Analytics; 
+Profitability Analysis; 
+Trend Analysis; 
+Distribution Analysis; 
 Executive Reporting
 ## Tools Used
-Tableau Public/Desktop
+Tableau Public/Desktop | 
 Sample Superstore Dataset
 ## Key Learning Outcomes
 Designing executive dashboards
